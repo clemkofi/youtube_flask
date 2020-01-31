@@ -1,3 +1,3 @@
-# medium_flask_test
+# youtube_flask
 
-testing CI/CD runners on gitlab
+This is a starter project for the containerization youtube tutorial.
